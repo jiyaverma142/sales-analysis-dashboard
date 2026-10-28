@@ -4,7 +4,7 @@
 
 **Live dashboard:** https://github.com/jiyaverma142/sales-analysis-dashboard
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview]https://github.com/jiyaverma142/sales-analysis-dashboard/blob/main/Dasboard.png
 
 ## Business question
 
