@@ -2,7 +2,7 @@
 
 > **Note:** This project uses a **simulated dataset** (1,000 online-store orders for 2025). It is not real company data.
 
-**Live dashboard:** https://jiyaverma142.github.io/sales-analysis-dashboard/
+**Live dashboard:** https://github.com/jiyaverma142/sales-analysis-dashboard
 
 ![Dashboard preview](images/dashboard.png)
 
