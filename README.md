@@ -2,9 +2,9 @@
 
 > **Note:** This project uses a **simulated dataset** (1,000 online-store orders for 2025). It is not real company data.
 
-**Live dashboard:** https://github.com/jiyaverma142/sales-analysis-dashboard
+**Live dashboard:** https://jiyaverma142.github.io/sales-analysis-dashboard/
 
-![Dashboard preview]https://github.com/jiyaverma142/sales-analysis-dashboard/blob/main/Dashboard.png
+![Dashboard preview](Dashboard.png)
 
 ## Business question
 
@@ -35,11 +35,12 @@ Which regions, product categories and months drive revenue for an online store, 
 ## Files
 
 | File | Purpose |
-|---|---|
-| `data/Sales_Analysis_Dashboard.xlsx` | Raw data and cleaned data |
-| `index.html` | Interactive web dashboard (Chart.js) |
-| `images/dashboard.png` | Screenshot of the dashboard |
+| --- | --- |
+| `Sales_Analysis_Dashboard.xlsx` | Raw data, cleaned data, Pivot Tables and Excel dashboard |
+| `index.html` | Web version of the dashboard (Chart.js) |
+| `Dashboard.png` | Screenshot of the dashboard |
+
 
 ## Tools
 
-Excel (data cleaning, formulas), HTML, JavaScript, Chart.js
+Excel (data cleaning, formulas, Pivot Tables, Pivot Charts, Slicers), Chart.js.
